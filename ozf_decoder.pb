@@ -1,7 +1,7 @@
 ﻿;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Example of OZF decoder
-;; Author: Sergey Avdeev (https://github.com/avdeevsv91/)
-;; DLL library: https://github.com/avdeevsv91/ozf_decoder_dll
+;; Author: Sergey Avdeev (https://github.com/kasitoru/)
+;; DLL library: https://github.com/kasitoru/ozf_decoder_dll
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ; Open DLL library
